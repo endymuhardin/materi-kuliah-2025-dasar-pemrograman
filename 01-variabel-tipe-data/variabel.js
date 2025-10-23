@@ -1,7 +1,13 @@
 var nama = "Ahmad Fauzi"
 console.log(nama)
 
-var nama1 = "Hidayat"
+// deklarasi variabel
+// deklarasi menentukan scope/lifetime/visibility
+// akan kita bahas setelah belajar function
+var nama1 
+
+// assignment (mengisi value ke dalam variabel)
+nama1 = "Hidayat"
 console.log(nama + nama1)
 
 var hadir = 2

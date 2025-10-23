@@ -2,7 +2,8 @@ void main() {
     String nama = "Ahmad Fauzi";
     System.out.println(nama);
 
-    String nama2 = "Hidayat";
+    String nama2; // deklarasi
+    nama2 = "Hidayat"; // assignment
     System.out.println(nama + nama2);
     
     int hadir = 4;
